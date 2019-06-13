@@ -9,7 +9,7 @@ Important for attendees:
   1. **Registration** link will be updated for each workshop. You can find it on my [website](http://physics.ipm.ac.ir/~vafaei/ "VafaeiSadr's website")..
 
   2. **Exercises** need to be emailed to <datascienceworkshops98@gmail.com>
-    You can find the exercises for each **session**[^1] in this repository. The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):<br/><br/>
+    You can find the exercises for each **session**<sup>[1](#footnote1)</sup> in this repository. The exercises will be checked automatically so you need to follow following instructions (see the [template](./S01/answers_template)):<br/><br/>
         A. Put your answers (only answers, either an explanation or a piece of code) whith in the email text message.<br/>
             (No need to attache it.)<br/><br/>
         B. The answers should be separated by 10 [hash sign](https://en.wikipedia.org/wiki/Number_sign) (##########). 
@@ -33,4 +33,4 @@ Important for attendees:
   
 
 <hr>
-[^1] Each workshop is one session <br/>
+<a name="footnote1">[1]</a> Each workshop is one session <br/>
